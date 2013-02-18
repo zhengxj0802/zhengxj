@@ -1,0 +1,21 @@
+
+T1138 037:098 J-Link ARM DLL Log File (0001ms, 15261ms total)
+T1138 037:098 DLL Compiled: Jun 30 2009 19:10:31 (0001ms, 15261ms total)
+T1138 037:098 Logging started @ 2013-02-04 15:51 (0001ms, 15261ms total)
+T1138 037:099 JLINKARM_SetWarnOutHandler(...) (0000ms, 15262ms total)
+T1138 037:099 JLINKARM_OpenEx(...)Out of sync , resynchronising... (5023ms, 15262ms total)
+T1138 037:099 Out of sync , resynchronising... (10106ms, 15262ms total)
+T1138 037:099 Out of sync , resynchronising... (15189ms, 15262ms total)
+T1138 037:099 
+  ***** Error: Can not connect to J-Link via USB.  returns "Can not connect to J-Link via USB." (15250ms, 15262ms total)
+T1138 052:349 JLINKARM_Close() (0000ms, 30512ms total)
+
+  ***** API Error: API JLINKARM_GetIdData function called before JLINKARM_Open()
+T1138 052:349 Out of sync , resynchronising... (5024ms, 30512ms total)
+T1138 052:349 Out of sync , resynchronising... (10108ms, 30512ms total)
+T1138 052:349 Out of sync , resynchronising... (15191ms, 30512ms total)
+T1138 052:349 
+  ***** Error: Can not connect to J-Link via USB.JLINKARM_GetCompileDateTime() (0000ms, 45764ms total)
+T1138 103:949 JLINKARM_Close() (0000ms, 45764ms total)
+T1138 103:949 JLINKARM_SelectUSB(Port = 0)  returns 0x00 (0000ms, 45764ms total)
+T1138 103:950 JLINKARM_Open()Out of sync , resynchronising... (5025ms, 45765ms total)
